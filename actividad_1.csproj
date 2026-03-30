@@ -1,0 +1,23 @@
+﻿using System;
+
+class Program
+{
+static void Main()
+{
+int A = 10;
+int B = 25;
+
+Console.WriteLine("Antes:");
+Console.WriteLine("A = " + A);
+Console.WriteLine("B = " + B);
+
+A = A + B;
+B = A
+B;
+A = A
+B;
+Console.WriteLine("\nDespués:");
+Console.WriteLine("A = " + A);
+Console.WriteLine("B = " + B);
+}
+}
